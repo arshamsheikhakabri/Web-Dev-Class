@@ -1,0 +1,21 @@
+<html> </html>
+Creates an HTML document
+<head> </head>
+Sets off the title & other info that isn't displayed
+<body> </body>
+Sets off the visible portion of the document
+<title> </title>
+Puts name of the document in the title bar; when
+bookmarking pages, this is what is bookmarked
+<ul> </ul>
+Creates an unordered list
+<ol> </ol>
+Creates an ordered list
+<li> </li>
+Encompasses each list item
+<p> </p>
+Creates a new paragraph
+<br>
+AInserts a line break (carriage return)
+<h1> </h1> --> <h6> </h6>
+Creates headlines -- H1=largest, H6=smallest
