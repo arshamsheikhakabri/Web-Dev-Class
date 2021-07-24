@@ -40,7 +40,7 @@ h3{
 color: 000000;
 color: rgba(0, 0,0, 0.87);
 background-color: 000000;
-font-family (stack): arial sans-serif;
+font-family (stack): arial, sans-serif;
 font-size: 13px;
 line-height: 24px;
 vertical-align: middle;
@@ -51,10 +51,50 @@ text-decoration:underline solid rgba(0, 0, 0, 0.87) ;
 text-align: start;
 text-indent: 0px;
 
-
-
-
-
-
+}
+input{
+    color: 000000;
+    color: rgba(0, 0, 0, 0.87);
+    background-color: 000000;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    line-height: normal;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    margin: -37px 0px 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none solid rgba(0, 0, 0, 0.87);
+    text-align: start;
+    text-indent: 0px;
+    
+}
+img{
+    color: 222222;
+    color: rgb(34,34,34);
+    background-color: 000000;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(34,34,34);
+    text-align: start;
+    text-indent: 0px;
+    width: 250px; 
+    
 }
 
