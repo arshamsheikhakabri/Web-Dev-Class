@@ -16,6 +16,8 @@ h1{
     text-decoration: none solid rgb(32, 33,36);
     text-align: center;
     text-indent: 0px;
+    width: 120px;
+    border-radius: 3px;
 }
 h2{
     text-align: left;
@@ -33,24 +35,26 @@ h2{
     text-transform: none;
     text-decoration: none solid rgb(32, 33,36);
     text-indent: 0px;
-    text-align: ;
- 
+    text-align:center ;
+    width: 100px;
+    border-radius: 3px;
 }
-h3{
-color: 000000;
-color: rgba(0, 0,0, 0.87);
-background-color: 000000;
-font-family (stack): arial, sans-serif;
-font-size: 13px;
-line-height: 24px;
-vertical-align: middle;
-letter-spacing: normal;
-font-variant: normal;
-text-transform: none;
-text-decoration:underline solid rgba(0, 0, 0, 0.87) ;
-text-align: start;
-text-indent: 0px;
-
+a{
+    color: 000000;
+    color: rgba(0, 0,0, 0.87);
+    background-color: 000000;
+    font-family : arial, sans-serif;
+    font-size: 13px;   
+    line-height: 24px;
+    vertical-align: middle;
+    letter-spacing: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: underline solid rgba(0, 0, 0, 0.87) ;
+    text-align: start;
+    text-indent: 0px;
+    text-decoration: none;
+    
 }
 input{
     color: 000000;
@@ -94,7 +98,8 @@ img{
     text-decoration: none solid rgb(34,34,34);
     text-align: start;
     text-indent: 0px;
-    width: 250px; 
-    
+    width: 272px;
+    height: 92;     
 }
+
 
