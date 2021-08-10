@@ -1,0 +1,56 @@
+h1{
+    color: #202124;
+    font-family: sans-serif , Arial;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+}
+.box{
+    font-weight: 400;
+    text-align: center;
+    color: #202124;
+    width: 400px;
+    height: 300px;
+    font-family: Arial,sans-serif;
+}
+.box img{
+    width: 400px;
+    
+}
+.box h2{
+    color: #202124;
+    font-family: Arial,sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+}
+.box2 h2{
+    color: #202124;
+    font-family: Arial,sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+}
+.box2 img{
+    width: 400px;
+}
+.box2{
+    font-weight: 400;
+    text-align: center;
+    color: #202124;
+    width: 400px;
+    height: 300px;
+    font-family: Arial,sans-serif;
+    margin-left: 1500px;
+    margin-top: -300px;
+}
+h3{
+    margin: 500px;
+    margin-left: 0px;
+}
+body{
+    background-color: aqua;
+}
+
+
+
