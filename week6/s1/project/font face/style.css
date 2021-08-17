@@ -1,0 +1,7 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(ariblk.ttf);
+  }
+h1{
+    font-family: myfirstfont;
+}
