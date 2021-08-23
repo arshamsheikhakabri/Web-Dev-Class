@@ -1,0 +1,13 @@
+@media (min-width: 35em) {
+    .main {
+      width: 67%;
+      float: left;
+      height: 50px;
+      orientation: 50px;
+    }
+  
+    .sidebar {
+      width: 33%;
+      float: right;
+    }
+  }
