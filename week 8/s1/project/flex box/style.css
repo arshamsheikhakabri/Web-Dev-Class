@@ -1,0 +1,52 @@
+@font-face {
+    font-family: deus-ex;
+    src: url(DentonBETA2.ttf);
+}
+.deusex {
+    width: 500px;
+    height: 650px;;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+img{
+    width: 500px;
+}
+p{
+    font-family: deus-ex;
+    width: 500px;
+    text-align: center;
+    color: white;
+
+}
+.deusex { transition: all .2s ease-in-out; }
+.deusex:hover { transform: scale(1.1); }
+body{
+    background-image: url('6f460673d65adee707dbb827184ae413.jpg');
+
+}
+.box{
+    display: flex;
+
+}
+.png{
+    width: 400px;
+    height: 200px;
+    margin-left: 200px;
+    margin-right: auto;
+    margin-top: 300px;
+    text-align: center;
+}
+.err{
+    width: 500px;
+    height: 650px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.err img {
+    width: 500px;
+    
+    
+}
+.err { transition: all .2s ease-in-out; }
+.err:hover { transform: scale(1.1); }
+
