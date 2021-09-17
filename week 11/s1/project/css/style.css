@@ -1,0 +1,191 @@
+#rock {
+  margin: 20px;
+  background-color: initial;
+  background-image: linear-gradient(#8614f8 0, #760be0 100%);
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, sans-serif Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  height: 60px;
+  line-height: 60px;
+  outline: 0;
+  text-align: center;
+  transition: all .3s cubic-bezier(.05, .03, .35, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: bottom;
+  width: 190px;
+}
+
+#rock:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 1000px) {
+  #rock {
+    font-size: 14px;
+    height: 55px;
+    line-height: 55px;
+    width: 150px;
+  }
+}
+#paper {
+  margin: 20px;
+    background-color: initial;
+    background-image: linear-gradient(#8614f8 0, #760be0 100%);
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter, sans-serif Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    height: 60px;
+    line-height: 60px;
+    outline: 0;
+    text-align: center;
+    transition: all .3s cubic-bezier(.05, .03, .35, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: bottom;
+    width: 190px;
+  }
+  
+  #paper:hover {
+    opacity: .7;
+  }
+  
+  @media screen and (max-width: 1000px) {
+    #paper {
+      font-size: 14px;
+      height: 55px;
+      line-height: 55px;
+      width: 150px;
+    }
+  }
+  #scissors {
+    margin: 20px;
+    background-color: initial;
+    background-image: linear-gradient(#8614f8 0, #760be0 100%);
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter, sans-serif Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    height: 60px;
+    line-height: 60px;
+    outline: 0;
+    text-align: center;
+    transition: all .3s cubic-bezier(.05, .03, .35, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: bottom;
+    width: 190px;
+  }
+  
+  #scissors:hover {
+    opacity: .7;
+  }
+  
+  @media screen and (max-width: 1000px) {
+    #scissors {
+      font-size: 14px;
+      height: 55px;
+      line-height: 55px;
+      width: 150px;
+    }
+  }
+.gg{
+  background-color: #de82ff;
+  text-align: center;
+  border-radius: 20px;
+  height: 600px;
+}
+#score{
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Roboto', sans-serif;
+  color: #fff4ff;
+  letter-spacing: 50px;
+}
+#draw{
+  color: #6a0dad;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-color: #ffd7ff;
+}
+#bu{
+  color: #fff4ff;
+  margin-bottom: -100px;
+  margin-left: 50px;
+  font-size: 70px;
+  text-align: center;
+  font-family: 'roboto', sans-serif;
+} 
+#reset {
+  margin: 20px;
+  background-color: initial;
+  background-image: linear-gradient(#8614f8 0, #760be0 100%);
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: rgba(245, 244, 247, .25) 0 1px 1px inset;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, sans-serif Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  height: 60px;
+  line-height: 60px;
+  outline: 0;
+  text-align: center;
+  transition: all .3s cubic-bezier(.05, .03, .35, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: bottom;
+  width: 190px;
+  margin-left: 550px;
+  margin-top:50px;
+  margin-right:  610px; ;
+}
+
+#reset:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 1000px) {
+  #reset {
+    font-size: 14px;
+    height: 55px;
+    line-height: 55px;
+    width: 150px;
+  }
+}
+#buttons{
+  display: inline-block;
+  margin-left: -60px;
+  margin-top: 30px;
+}
+.but{
+  margin-top: 1000px;
+}
+
+
