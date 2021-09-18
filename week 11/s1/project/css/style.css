@@ -188,5 +188,11 @@ body{
   color: #4b00d9;
   font-family: 'Roboto', sans-serif;
 }
+@media only screen and (max-width: 600px) {
+  .gg{
+    text-align: center;
+    margin: auto;   
+  }
+}
 
 
