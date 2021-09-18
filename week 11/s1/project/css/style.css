@@ -182,5 +182,11 @@ body{
 .but{
   margin-top: 1000px;
 }
+.cho{
+  margin-top: -50px;
+  font-size: 70px;
+  color: #4b00d9;
+  font-family: 'Roboto', sans-serif;
+}
 
 
