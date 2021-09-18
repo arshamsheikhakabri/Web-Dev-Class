@@ -18,8 +18,8 @@ rock.addEventListener("click" ,function(){
         score.innerHTML = human + ":" + pcg 
 }
 else if(pcd == 1){
-    draw.innerHTML = "Draw!";
-    setTimeout(function(){ draw.innerHTML = "" }, 1100);
+    score.innerHTML = "Draw!";
+    setTimeout(function(){ score.innerHTML = human + ':' + pcg }, 1100);
 }    
 })
 paper.addEventListener("click" ,function(){
@@ -34,8 +34,8 @@ paper.addEventListener("click" ,function(){
 
 }
 else if(pcd == 2){
-    draw.innerHTML = "Draw!";
-    setTimeout(function(){ draw.innerHTML = "" }, 1100);
+    score.innerHTML = "Draw!";
+    setTimeout(function(){ score.innerHTML = human + ':' + pcg }, 1100);
 }      
 })
 scissors.addEventListener("click" ,function(){
@@ -51,8 +51,8 @@ scissors.addEventListener("click" ,function(){
 
 }
 else if(pcd == 3){
-    draw.innerHTML = "Draw!";
-    setTimeout(function(){ draw.innerHTML = "" }, 1100);
+    score.innerHTML = "Draw!";
+    setTimeout(function(){ score.innerHTML = human + ":" + pcg }, 1100);
 }      
 })
 reset.addEventListener("click",function(){
