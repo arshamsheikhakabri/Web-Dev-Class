@@ -103,6 +103,48 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
+@media (max-width: 700px) {
+    .container{
+        margin-left: auto;
+        margin-right: 600px;
+        font-size: 20px;
+    }
+    .a{
+        width: 550px;
+    }
+    .b{
+        width: 550px;
+    }
+      .c{
+        width: 550px;
+    }
+    .d{
+        width: 550px;
+    }
+    .e{
+        width: 550px;
+    }
+    .f{
+        width: 550px;
+    }
+    .g{
+        width: 550px;
+    }
+    .j{
+        width: 550px;
+    }
+    .h{
+        width: 550px;
+    }
+    .i{
+        width: 550px;
+    }
+    .l{
+        width: 550px;
+    }
+
+    
+}
 
 
 
