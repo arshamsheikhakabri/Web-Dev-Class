@@ -17,6 +17,6 @@ stop.addEventListener('click',function(){
 reset.addEventListener('click',function(){
     clearInterval(interval)
     time = 0
-    timer.innerHTML = 0
+    timer.innerHTML = "00" + ":" + "00" + ":" + "00"
 })
 
